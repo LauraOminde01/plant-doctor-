@@ -84,6 +84,4 @@ Training was performed on Google Colab (T4 GPU) using transfer learning with the
 - Model training: TensorFlow, Keras, MobileNetV2, Google Colab T4 GPU
 - Data: PlantVillage dataset via Kaggle
 - App: Streamlit, Python 3.11
-- Image processing: Pillow, NumPy
-
-## Project Structure
+- Image processing: Pillow, Numpy
